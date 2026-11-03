@@ -1,4 +1,4 @@
 # Rahul Singh portfolio
 npm install
-npm run dev      # local preview
-npm run build    # outputs dist/ (deploy to Vercel or Netlify)
+npm run dev   
+npm run build   
